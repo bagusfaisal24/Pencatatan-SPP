@@ -12,7 +12,7 @@ else { $month = 'Semua'; }
 		<a class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></a>
 			<ul class="dropdown-menu">
 				<li>
-					<a href='datapesan.php?page=1'>Semua</a>
+					<a href='datapesan.php?page=1'>Seaamua</a>
 				</li>
 				<li>
 					<a href='datapesan.php?select=ongoing'>On Going</a>
